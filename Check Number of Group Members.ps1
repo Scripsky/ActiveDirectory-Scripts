@@ -1,0 +1,1 @@
+(Get-ADGroup "Office365 MDM" -Properties *).member.count
